@@ -2,7 +2,7 @@
 ## Overview
 This project is a Banking Application built using Spring Boot and MySQL server, offering a set of RESTful APIs with different endpoints for managing banking operations. It provides a comprehensive platform for users to interact with their accounts, perform transactions, and manage their financial activities securely and efficiently.
 
-The application is designed to handle various aspects of banking, including user management, account creation and management, transaction handling, and balance inquiries. It incorporates robust security measures to ensure data privacy and integrity, implementing authentication and authorization mechanisms to control access to sensitive functionalities.
+The application is designed to handle various aspects of banking, including account creation and management, transaction handling, and balance inquiries. It incorporates robust security measures to ensure data privacy and integrity, implementing authentication and authorization mechanisms to control access to sensitive functionalities.
 
 With a user-friendly interface and intuitive API design, this Banking Application aims to streamline banking processes, enhance user experience, and facilitate seamless communication between clients and the banking system. It serves as a scalable and reliable solution for modern banking needs, empowering users to manage their finances with ease and convenience.
 
